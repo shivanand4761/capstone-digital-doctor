@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiUrl = 'http://3.21.39.248:8080/appointmentservice';
+const apiUrl = 'http://3.131.245.22:8080/appointmentservice';
 
 class VideoChat {
   
